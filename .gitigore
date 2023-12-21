@@ -1,2 +1,2 @@
-**/*.txt
-**/*.png
+results/*/*.txt
+results/*.png
